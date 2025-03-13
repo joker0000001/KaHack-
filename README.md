@@ -16,4 +16,4 @@ This is a Kahoot hack AKA a cheat made for Chrome browser and Tampermonkey. Made
 have fun :)
 
 ## Credits
-Thanks to [Epic0001](https://github.com/Epic0001) for bug testing and general bug fixing, and help with ui. Without his help, this project would be outdated and not fully working piece of cheatware.
+Thanks to [Epic0001](https://github.com/Epic0001) (Cricket) for bug testing and general bug fixing, and help with ui. Without his help, this project would be outdated and not fully working piece of cheatware.
