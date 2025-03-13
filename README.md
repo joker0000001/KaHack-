@@ -12,3 +12,6 @@ This is a Kahoot hack AKA a cheat made for Chrome browser and Tampermonkey. Made
 4. Also here is a tip don't put the points slider over 987 it will cause the points to be 1000 automatically because that's how Kahoot calculates the points. Try to make the points as non-suspicious as possible. 
 
 have fun :)
+
+## Credits
+Thanks to [Epic0001](https://github.com/Epic0001) for bug testing and general bug fixing, and help with ui. Without his help, this project would be outdated and not fully working piece of cheatware.
