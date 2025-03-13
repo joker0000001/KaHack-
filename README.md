@@ -1,3 +1,4 @@
+yo
 This is a Kahoot hack AKA a cheat made for Chrome browser and Tampermonkey. Made in vanilla js and works on most browsers.
 
 ## Instructions
@@ -8,4 +9,6 @@ This is a Kahoot hack AKA a cheat made for Chrome browser and Tampermonkey. Made
 
 3. Type in the quiz ID. You should see it on the host's screen. If the quiz ID box is still red after typing in the right quiz ID that means the Kahoot is private and this cannot be used with it. image
 
-4. Have happy cheating :). Also here is another tip don't put the points slider over 987 it will cause the points to be 1000 automatically because that's how Kahoot calculates the points. Try to make the points as non-suspicious as possible.
+4. Also here is a tip don't put the points slider over 987 it will cause the points to be 1000 automatically because that's how Kahoot calculates the points. Try to make the points as non-suspicious as possible. 
+
+have fun :)
