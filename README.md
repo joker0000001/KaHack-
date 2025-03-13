@@ -1,6 +1,6 @@
 This is a Kahoot hack AKA a cheat made for Chrome browser and Tampermonkey. Made in vanilla js and works on most browsers.
 
-##Instructions
+## Instructions
 
 1. Open the KaHack!.user.js
 
